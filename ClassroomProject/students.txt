@@ -1,0 +1,4 @@
+s1,12,aa,m,A,c1
+s2,12,aa,m,A,c1
+s3,12,aa,m,B,c1
+s4,12,aa,m,B,c3
